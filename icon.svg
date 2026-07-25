@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#1B2023"/>
+  <rect x="0" y="0" width="512" height="512" rx="96" fill="none" stroke="#F2A93B" stroke-width="10"/>
+  <!-- caixa (estoque) -->
+  <g transform="translate(256 268)">
+    <polygon points="-120,-40 0,-92 120,-40 0,12" fill="#2B3338" stroke="#F2A93B" stroke-width="8"/>
+    <polygon points="-120,-40 0,12 0,132 -120,80" fill="#232A2E" stroke="#F2A93B" stroke-width="8"/>
+    <polygon points="120,-40 0,12 0,132 120,80" fill="#3A4349" stroke="#F2A93B" stroke-width="8"/>
+    <line x1="0" y1="12" x2="0" y2="132" stroke="#F2A93B" stroke-width="6"/>
+    <line x1="-120" y1="-40" x2="-120" y2="80" stroke="#F2A93B" stroke-width="3" opacity="0.5"/>
+    <line x1="120" y1="-40" x2="120" y2="80" stroke="#F2A93B" stroke-width="3" opacity="0.5"/>
+  </g>
+  <!-- seta de reposicao -->
+  <g transform="translate(256 118)">
+    <path d="M -60 20 A 70 70 0 1 1 55 55" fill="none" stroke="#4FA69E" stroke-width="14" stroke-linecap="round"/>
+    <polygon points="55,55 30,40 40,72" fill="#4FA69E"/>
+  </g>
+</svg>
